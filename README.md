@@ -34,6 +34,7 @@ Se generaron diversas visualizaciones para sustentar la recomendación final. A 
 Se mapearon las transacciones utilizando coordenadas de latitud y longitud para entender la huella operativa de cada tienda.
 
 ![Mapa de Calor de Ventas](image_452301.jpg)
+
 *(Distribución de densidad de ventas en el territorio colombiano)*
 
 > **Insight Geoespacial:** La visualización revela una fuerte polarización de la actividad comercial. Se observa una densa concentración de ventas en los principales clústeres urbanos (Bogotá, Medellín, Cali), lo que favorece a las tiendas posicionadas en estas zonas mediante una logística eficiente. Por el contrario, la tienda de menor rendimiento muestra una dispersión ineficiente hacia zonas periféricas (como la región amazónica), lo que correlaciona con sus altos costos de envío y menores calificaciones de satisfacción debido a las fricciones logísticas.
