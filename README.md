@@ -17,12 +17,11 @@ La evaluación se realizó bajo un enfoque multidimensional, analizando:
 
 El proyecto está organizado para facilitar la reproducibilidad del análisis:
 
-📁 retail-analysis-latam/
-│
-├── 📓 AluraStoreLatam.ipynb   # Notebook principal (ETL + Visualización + Storytelling)
-├── 📂 assets/                 # Gráficos exportados y recursos visuales
-├── 📄 image_452301.jpg        # Visualización geoespacial de densidad de ventas
-└── 📄 README.md               # Documentación del proyecto
+* 📁 **retail-analysis-latam/**
+    * 📓 `AluraStoreLatam.ipynb`: Notebook principal (ETL + Visualización + Storytelling).
+    * 📂 `assets/`: Carpeta con gráficos exportados y recursos visuales.
+    * 📄 `image_452301.jpg`: Visualización geoespacial de densidad de ventas.
+    * 📄 `README.md`: Documentación del proyecto.
 
 ## 3. Gráficos e Insights Obtenidos
 
@@ -56,6 +55,3 @@ Este proyecto fue desarrollado para ser ejecutado en **Google Colab**.
 **Autora:** Izunza Rocío 
 *Urbanista & Data Scientist*
 
-
-El entorno ya incluye las librerías necesarias (pandas, matplotlib, seaborn, folium), por lo que puedes ejecutar todas las celdas secuencialmente.
-Autora: Rocío Izunza Urbanista & Data Scientist
