@@ -17,7 +17,6 @@ La evaluación se realizó bajo un enfoque multidimensional, analizando:
 
 El proyecto está organizado para facilitar la reproducibilidad del análisis:
 
-```text
 📁 retail-analysis-latam/
 │
 ├── 📓 AluraStoreLatam.ipynb   # Notebook principal (ETL + Visualización + Storytelling)
