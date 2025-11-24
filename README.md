@@ -17,9 +17,10 @@ La evaluación se realizó bajo un enfoque multidimensional, analizando:
 El repositorio está organizado de la siguiente manera:
 
 * `AluraStoreLatam.ipynb`: Cuaderno principal (Jupyter Notebook) que contiene la ingesta de datos, limpieza, análisis estadístico y generación de visualizaciones.
+* `assets/`: Carpeta contenedora de imágenes y gráficos estáticos generados.
 * `datasets/`: (Referencias) Los datos provienen de fuentes remotas cargadas directamente en el notebook para asegurar la reproducibilidad.
 
-## 3. Gráficos e Insights Obtenidos
+## 3. Ejemplos de Gráficos e Insights Obtenidos
 
 Se generaron diversas visualizaciones para sustentar la recomendación final. A continuación, se destaca el análisis territorial.
 
@@ -33,7 +34,7 @@ Se mapearon las transacciones utilizando coordenadas de latitud y longitud para 
 La visualización revela una fuerte polarización de la actividad comercial. Se observa una densa concentración de ventas en los principales clústeres urbanos (Bogotá, Medellín, Cali), lo que favorece a las tiendas posicionadas en estas zonas mediante una logística eficiente.
 Por el contrario, la tienda de menor rendimiento muestra una dispersión ineficiente hacia zonas periféricas (como la región amazónica), lo que correlaciona con sus altos costos de envío y menores calificaciones de satisfacción debido a las fricciones logísticas.
 
-### Conclusión del Análisis
+### 📉 Conclusión del Análisis
 Basado en la integración de las variables financieras y espaciales, se recomendó la venta de la tienda con menor facturación y mayor complejidad logística, permitiendo a la gerencia optimizar su cartera de inversión.
 
 ## 4. Instrucciones para Ejecutar el Notebook
@@ -49,5 +50,5 @@ Este proyecto fue desarrollado para ser ejecutado en **Google Colab**.
 4.  Ejecuta las celdas en orden secuencial ("Run All") para reproducir el análisis y los mapas interactivos.
 
 ---
-**Autor:** [Tu Nombre]
-*Urbanista & Data Scientist*# Analisis-Rendimiento-Retail-LATAM
+**Autora:** Izunza Rocío 
+*Urbanista & Data Scientist*
